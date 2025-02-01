@@ -13,5 +13,9 @@ And That's
 * Matplotlib (train)
 * numpy
 
+## Training
+
+Check and run `train.py` it'll output a .keras file in models folder
+
 ---
 P.S. I'm not a expert in AI.
